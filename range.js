@@ -14,10 +14,4 @@ module.exports = function (start, length) {
 
 
   return array;
-
-  // if (length) {
-  // return new Array(length);
-  // } else {
-  // return [];
-  // }
 }
