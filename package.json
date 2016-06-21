@@ -16,7 +16,13 @@
     "url": "https://github.com/MAOstrander/utility-functions/issues"
   },
   "homepage": "https://github.com/MAOstrander/utility-functions#readme",
-  "dependencies": {},
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-watch": "^4.3.8",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.0"
+  },
   "devDependencies": {
     "chai": "^3.4.1",
     "mocha": "^2.3.4"
