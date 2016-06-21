@@ -1,0 +1,20 @@
+{
+  "name": "utility-functions",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Mathew Ostrander <mathew.ostrander@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/MAOstrander/utility-functions",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0"
+  }
+}
